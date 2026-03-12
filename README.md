@@ -1,6 +1,4 @@
-Certainly! Here's a brief description and a sample README file for your ChatSy app based on the information provided:
 
----
 
 # ChatSy App
 
@@ -48,7 +46,3 @@ git clone https://github.com/afshansif/Chatsy.git
    - Connect your Android device or start an emulator
    - Click on the "Run" button in Android Studio
 
-
----
-
-Let me know if you'd like me to customize this further!
